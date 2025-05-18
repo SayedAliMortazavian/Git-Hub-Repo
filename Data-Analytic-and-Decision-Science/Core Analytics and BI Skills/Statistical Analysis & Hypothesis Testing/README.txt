@@ -1,5 +1,5 @@
-#Statistics for Data Analysis
-##Understanding Data with Descriptive Statistics
+# Statistics for Data Analysis
+## Understanding Data with Descriptive Statistics
 
 Descriptive Statistics
 Types of Variables
@@ -15,12 +15,12 @@ Box & Whisker Plots
 Variance & Standard Deviation
 
 
-##Modeling Data with Probability Distributions
+## Modeling Data with Probability Distributions
 
-##The Central Limit Theorem
+## The Central Limit Theorem
 
-##Making Estimates with Confidence Intervals
+## Making Estimates with Confidence Intervals
 
-##Drawing Conclusions with Hypothesis Tests
+## Drawing Conclusions with Hypothesis Tests
 
-##Making Predictions with Regression Analysis
+## Making Predictions with Regression Analysis
