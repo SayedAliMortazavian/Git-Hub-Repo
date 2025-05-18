@@ -1,4 +1,4 @@
-# Statistics for Data Analysis
+# **Statistics for Data Analysis**
 ## Understanding Data with Descriptive Statistics
 
 Descriptive Statistics
