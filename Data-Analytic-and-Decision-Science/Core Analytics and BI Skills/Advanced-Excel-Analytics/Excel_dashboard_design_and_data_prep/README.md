@@ -65,26 +65,5 @@ This dashboard helps to:
 - It is designed as a scalable, reusable tool that can be adapted for other retail or sales environments.
 - No real company data is used; all data and scenarios are fictional for educational and demonstration purposes.
 
----
 
-## File Details
-
-- Filename: `SmartPlay_Regional_Sales_Dashboard.xlsx`
-- Excel Version: Compatible with Microsoft Excel 2016 and later
-- File Size: ~2 MB
-
----
-
-## Contact & Further Info
-
-For questions or to discuss the techniques used in this project, please contact:
-
-**Ali [Your Last Name]**  
-Business Analytics & Intelligence Enthusiast  
-Email: ali.email@example.com  
-LinkedIn: linkedin.com/in/ali-analytics
-
----
-
-*Thank you for reviewing this project. I look forward to discussing how I can contribute to advanced analytics research and practice.*
 
