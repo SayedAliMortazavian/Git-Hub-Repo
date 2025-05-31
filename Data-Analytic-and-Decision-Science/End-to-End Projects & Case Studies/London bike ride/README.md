@@ -80,13 +80,5 @@ python sd_model.py
 
 ---
 
-## Interpreting Results
-1. **`London_bikes_final.xlsx`** – Use this cleaned dataset in Tableau to replicate the interactive dashboard.  
-2. **Forecast Plots** (`seasonal_decomposition.png`, `forecast_vs_actual.png`) – Inspect how well the SARIMA model captures seasonal patterns and out-of-sample behavior.  
-3. **`sd_simulation_results.csv`** – Analyze hourly stock data to see how Available, In-Use, and Under Maintenance bikes evolve under each policy scenario.  
-4. **`sd_simulation_stocks.png`** – Visualize the trajectory of bike stocks, identifying stabilization points, oscillations, and saturation effects.
-
----
-
 
 
